@@ -1,2 +1,2 @@
-print("Hello World")
-print("Change")
+for i in range(0,2):
+    print("Hello World")
